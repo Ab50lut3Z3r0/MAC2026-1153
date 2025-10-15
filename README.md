@@ -10,4 +10,4 @@ Un repositporio con cosas algo utiles para los estudiantes de la carrera de MAC,
 
 ## Videos de Orientación Para el uso de GitHub
 
-- (5 horas de github, Dividido por capitulos)[https://www.youtube.com/embed/3GymExBkKjE?si=W4pKz7xth5sW20XN]
+- [Hola mundo](https://www.youtube.com/embed/3GymExBkKjE?si=W4pKz7xth5sW20XN) 
